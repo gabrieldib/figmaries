@@ -29,3 +29,7 @@ That simple tool that sooner or later you will need.
 
 [add guides](https://github.com/gabrieldib/figmaries/blob/main/src/add_guides.js)
 A simple template to automate adding guidelines when you need a few or a lot of equally spaced guidelines
+
+[create clean frame](https://github.com/gabrieldib/figmaries/blob/main/src/create_clean_frame.js)
+In Figma plugin dev, we often need to create frames and they come with a fill, but what if you just
+want them with no fills? Worry no more. Use create_clean_frame()
