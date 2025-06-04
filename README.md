@@ -26,3 +26,6 @@ this problem. You are welcome ;P
 
 [convert rgb to hex](https://github.com/gabrieldib/figmaries/blob/main/src/convert_rgb_to_hex.js)
 That simple tool that sooner or later you will need.
+
+[add guides](https://github.com/gabrieldib/figmaries/blob/main/src/add_guides.js)
+A simple template to automate adding guidelines when you need a few or a lot of equally spaced guidelines
