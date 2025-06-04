@@ -23,3 +23,6 @@ Flattening is not as obvious as one could expect. So here's a simple template to
 Rotating a node or a selection around its center is not as simple as one could expect.
 Also when that node or selection already have a rotation in place. This code snippet solves
 this problem. You are welcome ;P
+
+[convert rgb to hex](https://github.com/gabrieldib/figmaries/blob/main/src/convert_rgb_to_hex.js)
+That simple tool that sooner or later you will need.
